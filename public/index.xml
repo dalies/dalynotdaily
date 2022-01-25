@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daly not Daily</title>
+    <link>https://dalynotdaily.com/</link>
+    <description>Recent content on Daly not Daily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 22:40:23 -0500</lastBuildDate><atom:link href="https://dalynotdaily.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpage2</title>
+      <link>https://dalynotdaily.com/post/testpage2/</link>
+      <pubDate>Mon, 24 Jan 2022 22:40:23 -0500</pubDate>
+      
+      <guid>https://dalynotdaily.com/post/testpage2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testpage</title>
+      <link>https://dalynotdaily.com/post/testpage/</link>
+      <pubDate>Mon, 24 Jan 2022 22:22:42 -0500</pubDate>
+      
+      <guid>https://dalynotdaily.com/post/testpage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
