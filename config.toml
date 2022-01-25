@@ -1,0 +1,7 @@
+baseURL = 'https://dalynotdaily.com/'
+languageCode = 'en-us'
+title = 'Daly not Daily'
+theme = "beautifulhugo"
+
+[Author]
+  name = "Andrew Daly"
